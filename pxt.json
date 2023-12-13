@@ -1,5 +1,5 @@
 {
-    "name": "eyes",
+    "name": "eyes #3",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -15,7 +15,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.22",
+        "target": "6.0.25",
         "targetId": "microbit"
     },
     "supportedTargets": [
